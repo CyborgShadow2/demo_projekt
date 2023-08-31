@@ -1,0 +1,14 @@
+body{
+    background-color: #5f6f7d;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+h1,h2,h3{
+    background-color: #f0f7fc;
+}
+img{
+    max-width: 50%;
+    justify-content: center;
+    align-items: center;
+}
